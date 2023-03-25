@@ -16,7 +16,7 @@ const App = () => {
         title="Say Hello"
         onPress={() => {
           setTimeout(() => {
-            setMessage("Hello world!");
+            setMessage("Hello  world!");
           }, Math.floor(Math.random() * 200));
         }}
       />
